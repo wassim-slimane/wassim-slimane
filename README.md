@@ -26,7 +26,7 @@ I'm Wassim SLIMANE, a passionate junior web developer on a mission to become a s
 
 #### Let's Connect
 - 📧 Email: wassim.slimane01@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/wassim-slimane-432b78219/)
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/wassim-slimane-432b78219/)
 
 #### Looking Forward
 Excited about the journey ahead and looking forward to connecting with fellow developers, learning, and contributing to innovative projects. Let's code together and build something amazing! 🌟
