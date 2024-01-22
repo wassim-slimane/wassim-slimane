@@ -24,6 +24,8 @@ I'm Wassim SLIMANE, a passionate junior web developer on a mission to become a s
 - 🚀 Reactapp - Simple app that touch on React concepts and features.
 - 🌐 Back-end - Simple API that touch on Laravel concepts and features.
 
+I am also working on programming concepts, OOP concepts, data structures, algorithms and other computer science based knowledge. 
+
 #### Let's Connect
 - 📧 Email: wassim.slimane01@gmail.com
 - 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/wassim-slimane-432b78219/)
