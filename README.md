@@ -19,7 +19,7 @@ I'm Wassim SLIMANE, a passionate junior web developer on a mission to become a s
 - Database: MongoDB, MySQL, GrapheQL.
 - Tools: Git, ...
 
-[//]: <> #### Current Projects
+[//]: <> (#### Current Projects)
 
 // - 🌐 Front-end - Pure JS app that touch on JS concepts and features.
 // - 🚀 Reactapp - App that touch on React concepts and features.
