@@ -20,10 +20,9 @@ I'm Wassim SLIMANE, a passionate junior web developer on a mission to become a s
 - Tools: Git, ...
 
 [//]: <> (#### Current Projects)
-
-// - 🌐 Front-end - Pure JS app that touch on JS concepts and features.
-// - 🚀 Reactapp - App that touch on React concepts and features.
-// - 🌐 Back-end - API that touch on Symfony concepts and features.
+[//]: <> (🌐 Front-end - Pure JS app that touch on JS concepts and features.)
+[//]: <> (🚀 Reactapp - App that touch on React concepts and features.)
+[//]: <> (🌐 Back-end - API that touch on Symfony concepts and features.)
 
 I'm brushing up on essential programming concepts, OOP fundamentals, data structures, algorithms, and other core computer science topics to stay sharp. Keeping these in the toolkit helps me stay prepared for any challenge that comes my way! 
 
