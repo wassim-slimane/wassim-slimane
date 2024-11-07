@@ -19,12 +19,12 @@ I'm Wassim SLIMANE, a passionate junior web developer on a mission to become a s
 - Database: MongoDB, MySQL, GrapheQL.
 - Tools: Git, ...
 
-#### Current Projects
-- 🌐 Front-end - Simple pure JS app that touch on JS concepts and features.
-- 🚀 Reactapp - Simple app that touch on React concepts and features.
-- 🌐 Back-end - Simple API that touch on Symfony concepts and features.
+// #### Current Projects
+// - 🌐 Front-end - Pure JS app that touch on JS concepts and features.
+// - 🚀 Reactapp - App that touch on React concepts and features.
+// - 🌐 Back-end - API that touch on Symfony concepts and features.
 
-I am also working on programming concepts, OOP concepts, data structures, algorithms and other computer science based knowledge. 
+I'm brushing up on essential programming concepts, OOP fundamentals, data structures, algorithms, and other core computer science topics to stay sharp. Keeping these in the toolkit helps me stay prepared for any challenge that comes my way! 
 
 #### Let's Connect
 - 📧 Email: wassim.slimane01@gmail.com
