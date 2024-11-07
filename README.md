@@ -18,7 +18,9 @@ I'm Wassim SLIMANE, a passionate junior web developer on a mission to become a s
 - Backend: PHP, Symfony, Laravel, CakePHP, Node.js, Express.
 - Database: MongoDB, MySQL, GrapheQL.
 - Tools: Git, ...
-[comment]: <> (This is a comment, it will not be included)
+
+[//]: <> (This is a comment, it will not be included)
+#test
 // #### Current Projects
 // - 🌐 Front-end - Pure JS app that touch on JS concepts and features.
 // - 🚀 Reactapp - App that touch on React concepts and features.
