@@ -1,34 +1,33 @@
-### Hi there! 👋
+Hi there! 👋  
+I'm Wassim SLIMANE, a former full-stack web developer now on a journey to become a Data & AI engineer. 🚀  
 
-I'm Wassim SLIMANE, a passionate junior web developer on a mission to become a senior-level coding maestro. 🚀
+## About Me  
+👨‍💻 4 years of experience crafting efficient and scalable web solutions.  
+📊 Currently pursuing an engineering degree in **Data & Artificial Intelligence** at ECE Paris.  
+💡 Passionate about transforming raw data into meaningful insights and decision-making tools.  
+⚡ Strong believer in automation, performance optimization, and clean solutions.  
+🌍 Curious, adaptable, and always eager to learn from international and collaborative environments.  
 
-#### About Me
-- 👨‍💻 Full-stack developer with a love for building robust web applications.
-- 🌐 Experienced in front-end technologies and back-end.
-- 💡 Problem solver and creative thinker, always eager to tackle new challenges.
-- 🚀 Committed to continuous learning and staying up-to-date with the latest tech trends.
+## What I Love  
+💻 Turning complex datasets into clear, actionable insights.  
+🛠 Building data pipelines, dashboards, and predictive models.  
+🚀 Combining my web background with data skills to deliver end-to-end solutions.  
 
-#### What I Love
-- 💻 Coding is my happy place. I enjoy turning ideas into functional and beautiful applications.
-- 🛠 Solving problems is not just a task; it's a passion. I love unraveling complex issues and finding elegant solutions.
-- 🚀 Building apps and solutions that make a positive impact is what drives me every day.
+## Tech Stack  
+**Data & Databases**: Python, Pandas, NumPy, SQL, MongoDB, PostgreSQL.  
+**Data Engineering**: ETL concepts, Apache Spark, Airflow (in progress).  
+**Cloud & Deploy**: Docker, Kubernetes, Git, AWS (S3, Lambda).  
+**Analytics & BI**: Jupyter, Power BI (learning).  
+**Web Dev Roots**: PHP, Symfony, Laravel, JavaScript, React, Node.js.  
 
-#### Tech Stack
-- Frontend: HTML, CSS, SCSS, JavaScript, React, Angular, ...
-- Backend: PHP, Symfony, Laravel, CakePHP, Node.js, Express.
-- Database: MongoDB, MySQL, GrapheQL.
-- Tools: Git, ...
+## Current Focus  
+📚 Deepening my skills in data engineering, analytics, and machine learning.  
+🎯 Preparing for an apprenticeship starting **September 2025**, where I can bring my **double expertise in web & data** to create impactful solutions.  
 
-[//]: <> (#### Current Projects)
-[//]: <> (🌐 Front-end - Pure JS app that touch on JS concepts and features.)
-[//]: <> (🚀 Reactapp - App that touch on React concepts and features.)
-[//]: <> (🌐 Back-end - API that touch on Symfony concepts and features.)
+## Let's Connect  
+📧 Email: wassim.slimane01@gmail.com  
+💼 LinkedIn: [My Profile](https://www.linkedin.com/in/wassim-slimane)  
 
-I'm brushing up on essential programming concepts, OOP fundamentals, data structures, algorithms, and other core computer science topics to stay sharp. Keeping these in the toolkit helps me stay prepared for any challenge that comes my way! 
+---
 
-#### Let's Connect
-- 📧 Email: wassim.slimane01@gmail.com
-- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/wassim-slimane-432b78219/)
-
-#### Looking Forward
-Excited about the journey ahead and looking forward to connecting with fellow developers, learning, and contributing to innovative projects. Let's code together and build something amazing! 🌟
+✨ Excited to connect with fellow data enthusiasts, collaborate on innovative projects, and keep growing at the intersection of **development, data, and AI**. Let’s build the future together! 🌟
