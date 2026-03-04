@@ -1,5 +1,5 @@
 Hi there! 👋  
-I'm Wassim SLIMANE, a former full-stack web developer now on a journey to become a Data & AI engineer. 🚀  
+I'm Wassim SLIMANE, a former full-stack software engineer now on a journey to become a Data & AI engineer. 🚀  
 
 ## About Me  
 👨‍💻 4 years of experience crafting efficient and scalable web solutions.  
